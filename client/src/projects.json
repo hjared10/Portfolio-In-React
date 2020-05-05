@@ -1,0 +1,38 @@
+[
+{
+    "id": 1,
+    "title": "Accessible calendar",
+    "description": "Intended to be a calendar app for a variety of people.  It gives verbal alerts about upcoming events.  Developed as a team. It isnt a hundred percent functional, but was a great learning experience.",
+    "image": "./src/assets/calimg.PNG"
+},
+  {
+      "id": 2,
+      "title": "Game of the Rings",
+      "description": "A short story generator with some random elements and a lot of adventure.  Developed as a collaborative effort, this app is simple but i'm quite found of it.",
+      "image": "./src/assets/prooneimg.PNG"
+    },
+    {
+        "id": 3,
+        "title": "Management system",
+        "description": "This is a command line application in node that allows users to manage a mysql databse full of users.  Allows CRUD and to search by name, role, or department.",
+        "image": "./src/assets/opimg.PNG"
+    },
+    {
+        "id": 4,
+        "title": "Dragon Designer",
+        "description": "A fun little project to show off express and handelbars.",
+        "image": "./src/assets/dragonimg.PNG"
+    },
+    {
+        "id": 5,
+        "title": "Developer Profile",
+        "description": "A command line node app that gets information about a developer from a git hub user name.",
+        "image": "./src/assets/genimg.PNG"
+    },
+    {
+        "id":6,
+        "title": "Javaquiz",
+        "description": "Three multiple choice quizes on various topics.",
+        "image": "./assets/quiz.PNG"
+    }
+]
